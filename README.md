@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/6crQ7zxy/Sabir-Hossain-Arik.jpg" alt="Banner" style="width:100%;"/>
+</p>
+
+
 <h1 align="center">👋 Hi, I'm Sabir Hossain Arik!</h1>
 <h3 align="center">🚀 Frontend Developer | Lifelong Learner from Bangladesh 🇧🇩</h3>
 
@@ -41,13 +46,13 @@
 
 ### 📈 **GitHub Relevant Stats**
 <p align="center">
-  <!-- Top languages -->
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arik509&show_icons=true&locale=en&layout=compact" alt="arik509 Top Languages" />
 
-  <!-- Contribution Graph -->
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arik509&theme=react-dark" alt="arik509 Contribution Graph" />
 
-  <!-- Streak Stats -->
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arik509&theme=react" alt="arik509 Streak Stats" />
 </p>
 
@@ -58,7 +63,5 @@
 </p>
 
 ---
-
-<!-- আরও রেলেভেন্ট GitHub স্ট্যাট যেমন কন্ট্রিবিউশন গ্রাফ, স্ট্রিক, ইত্যাদি যোগ করা হয়েছে। চাইলে আরও অনেক কিছু add করা সম্ভব। -->
 
 ✨ **Thanks for visiting my profile! Let’s connect and build amazing things together.**
